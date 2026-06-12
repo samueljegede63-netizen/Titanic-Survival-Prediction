@@ -80,6 +80,18 @@ This type of analysis can be applied in real-world scenarios such as risk modeli
 Decision Tree performed best overall, but Logistic Regression provided better interpretability.
 
 ---
+## Key Visualizations
+
+### Survival by Gender
+![Survival by Gender](images/survival_by_gender.png)
+
+### Survival by Class
+![Survival by Class](images/survival_by_class.png)
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
+
+---
 
 ## Technologies Used
 
