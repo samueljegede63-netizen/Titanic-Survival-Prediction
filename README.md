@@ -59,6 +59,16 @@ The dataset is the classic Titanic dataset commonly used for beginner machine le
 
 ---
 
+## Business Insight
+
+This project demonstrates how historical passenger data can be used to identify survival patterns and build predictive models.
+
+From a business/analytical perspective, the findings show that demographic and socioeconomic factors such as gender and passenger class had the strongest influence on survival outcomes.
+
+This type of analysis can be applied in real-world scenarios such as risk modeling, customer segmentation, and decision support systems.
+
+---
+
 ## Model Performance
 
 | Model | Accuracy |
