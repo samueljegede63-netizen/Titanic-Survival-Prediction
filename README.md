@@ -8,6 +8,18 @@ This project demonstrates a full data science workflow including data cleaning, 
 
 ---
 
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
 ## Problem Statement
 
 Given passenger information such as age, gender, ticket class, and fare, the goal is to predict whether a passenger survived the Titanic disaster.
@@ -91,18 +103,5 @@ Decision Tree performed best overall, but Logistic Regression provided better in
 ### Model Comparison
 ![Model Comparison](images/model_comparison.png)
 
----
 
-## Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
-
----
-
-## Project Structure
